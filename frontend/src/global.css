@@ -1,0 +1,71 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --background-1: #ffffff;
+  --background-2: #DEDEDE;
+  --background-3: #D2D2D2;
+  --background-4: #E4EFF0;
+  --background-5: #D0E0E2;
+  --background-6: #BED1D3;
+  --background-7: #4E7988;
+  --background-8: #3B5F6C;
+  --background-9: #142328; /* main text color */
+  --background-10: #000000;
+  --trash-btn: #ef4444;
+  --trash-btn-bg: #fee2e2;
+
+  /* Font sizes */
+  --text-px-64: 64px;
+  --text-px-48: 48px;
+  --text-px-32: 32px;
+  --text-px-24: 24px;
+  --text-px-18: 18px;
+  --text-px-16: 16px;
+  --text-px-14: 14px;
+  --text-px-12: 12px;
+
+  /* Border Radius */
+  --rounded-md: 6px;
+  --rounded-lg: 8px;
+  --rounded-btn: 30px;
+
+  --px-96: 96px;
+  --px-48: 48px;
+  --px-32: 32px;
+  --px-24: 24px;
+  --px-18: 18px;
+  --px-16: 16px;
+  --px-14: 14px;
+
+  /* Element spacing */
+  --space-80: 80px;
+  --space-64: 64px;
+  --space-32: 32px;
+  --space-24: 24px;
+  --space-16: 16px;
+  --space-8: 8px;
+}
+
+/* Fonts */
+.oxygen-light {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.oxygen-regular {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.oxygen-bold {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
